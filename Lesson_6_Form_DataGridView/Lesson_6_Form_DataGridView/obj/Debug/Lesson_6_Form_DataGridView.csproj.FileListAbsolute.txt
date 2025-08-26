@@ -1,0 +1,11 @@
+D:\TOP Accademy\ADO.NET\Lesson_6_Form_DataGridView\Lesson_6_Form_DataGridView\bin\Debug\Lesson_6_Form_DataGridView.exe.config
+D:\TOP Accademy\ADO.NET\Lesson_6_Form_DataGridView\Lesson_6_Form_DataGridView\bin\Debug\Lesson_6_Form_DataGridView.exe
+D:\TOP Accademy\ADO.NET\Lesson_6_Form_DataGridView\Lesson_6_Form_DataGridView\bin\Debug\Lesson_6_Form_DataGridView.pdb
+D:\TOP Accademy\ADO.NET\Lesson_6_Form_DataGridView\Lesson_6_Form_DataGridView\obj\Debug\Lesson_6_Form_DataGridView.csproj.AssemblyReference.cache
+D:\TOP Accademy\ADO.NET\Lesson_6_Form_DataGridView\Lesson_6_Form_DataGridView\obj\Debug\Lesson_6_Form_DataGridView.Form1.resources
+D:\TOP Accademy\ADO.NET\Lesson_6_Form_DataGridView\Lesson_6_Form_DataGridView\obj\Debug\Lesson_6_Form_DataGridView.Properties.Resources.resources
+D:\TOP Accademy\ADO.NET\Lesson_6_Form_DataGridView\Lesson_6_Form_DataGridView\obj\Debug\Lesson_6_Form_DataGridView.csproj.GenerateResource.cache
+D:\TOP Accademy\ADO.NET\Lesson_6_Form_DataGridView\Lesson_6_Form_DataGridView\obj\Debug\Lesson_6_Form_DataGridView.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\ADO.NET\Lesson_6_Form_DataGridView\Lesson_6_Form_DataGridView\obj\Debug\Lesson_6_Form_DataGridView.exe
+D:\TOP Accademy\ADO.NET\Lesson_6_Form_DataGridView\Lesson_6_Form_DataGridView\obj\Debug\Lesson_6_Form_DataGridView.pdb
+D:\TOP Accademy\ADO.NET\Lesson_6_Form_DataGridView\Lesson_6_Form_DataGridView\obj\Debug\Lesson_6_Form_DataGridView.exe.config
