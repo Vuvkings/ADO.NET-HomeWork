@@ -1,0 +1,8 @@
+D:\TOP Accademy\ADO.NET\Lesson7 LINQtoSQL\Lesson7 LINQtoSQL\obj\Debug\Lesson7 LINQtoSQL.csproj.AssemblyReference.cache
+D:\TOP Accademy\ADO.NET\Lesson7 LINQtoSQL\Lesson7 LINQtoSQL\obj\Debug\Lesson7 LINQtoSQL.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\ADO.NET\Lesson7 LINQtoSQL\Lesson7 LINQtoSQL\bin\Debug\Lesson7 LINQtoSQL.exe.config
+D:\TOP Accademy\ADO.NET\Lesson7 LINQtoSQL\Lesson7 LINQtoSQL\bin\Debug\Lesson7 LINQtoSQL.exe
+D:\TOP Accademy\ADO.NET\Lesson7 LINQtoSQL\Lesson7 LINQtoSQL\bin\Debug\Lesson7 LINQtoSQL.pdb
+D:\TOP Accademy\ADO.NET\Lesson7 LINQtoSQL\Lesson7 LINQtoSQL\obj\Debug\Lesson7 LINQtoSQL.exe
+D:\TOP Accademy\ADO.NET\Lesson7 LINQtoSQL\Lesson7 LINQtoSQL\obj\Debug\Lesson7 LINQtoSQL.pdb
+D:\TOP Accademy\ADO.NET\Lesson7 LINQtoSQL\Lesson7 LINQtoSQL\obj\Debug\Lesson7 LINQtoSQL.exe.config
