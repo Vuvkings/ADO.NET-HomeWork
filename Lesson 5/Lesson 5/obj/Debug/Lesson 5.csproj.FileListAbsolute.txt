@@ -1,0 +1,11 @@
+D:\TOP Accademy\ADO.NET\Lesson 5\Lesson 5\bin\Debug\Lesson 5.exe.config
+D:\TOP Accademy\ADO.NET\Lesson 5\Lesson 5\bin\Debug\Lesson 5.exe
+D:\TOP Accademy\ADO.NET\Lesson 5\Lesson 5\bin\Debug\Lesson 5.pdb
+D:\TOP Accademy\ADO.NET\Lesson 5\Lesson 5\obj\Debug\Lesson 5.csproj.AssemblyReference.cache
+D:\TOP Accademy\ADO.NET\Lesson 5\Lesson 5\obj\Debug\Lesson_5.Form1.resources
+D:\TOP Accademy\ADO.NET\Lesson 5\Lesson 5\obj\Debug\Lesson_5.Properties.Resources.resources
+D:\TOP Accademy\ADO.NET\Lesson 5\Lesson 5\obj\Debug\Lesson 5.csproj.GenerateResource.cache
+D:\TOP Accademy\ADO.NET\Lesson 5\Lesson 5\obj\Debug\Lesson 5.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\ADO.NET\Lesson 5\Lesson 5\obj\Debug\Lesson 5.exe
+D:\TOP Accademy\ADO.NET\Lesson 5\Lesson 5\obj\Debug\Lesson 5.pdb
+D:\TOP Accademy\ADO.NET\Lesson 5\Lesson 5\obj\Debug\Lesson 5.exe.config
