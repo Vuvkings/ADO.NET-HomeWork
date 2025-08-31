@@ -1,0 +1,8 @@
+D:\TOP Accademy\ADO.NET\Leson1\Leson1\bin\Debug\Leson1.exe.config
+D:\TOP Accademy\ADO.NET\Leson1\Leson1\bin\Debug\Leson1.exe
+D:\TOP Accademy\ADO.NET\Leson1\Leson1\bin\Debug\Leson1.pdb
+D:\TOP Accademy\ADO.NET\Leson1\Leson1\obj\Debug\Leson1.csproj.AssemblyReference.cache
+D:\TOP Accademy\ADO.NET\Leson1\Leson1\obj\Debug\Leson1.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\ADO.NET\Leson1\Leson1\obj\Debug\Leson1.exe
+D:\TOP Accademy\ADO.NET\Leson1\Leson1\obj\Debug\Leson1.pdb
+D:\TOP Accademy\ADO.NET\Leson1\Leson1\obj\Debug\Leson1.exe.config
